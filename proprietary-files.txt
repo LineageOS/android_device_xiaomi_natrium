@@ -207,3 +207,13 @@ etc/sensors/sensor_def_qcomdev.conf
 
 # Thermal
 etc/thermal-engine-8996.conf
+
+# Wipower
+etc/permissions/com.quicinc.wbc.xml
+etc/permissions/com.quicinc.wbcservice.xml
+framework/com.quicinc.wbc.jar
+framework/com.quicinc.wbcservice.jar
+vendor/lib/hw/wbc_hal.default.so
+vendor/lib/libwbc_jni.so
+vendor/lib64/hw/wbc_hal.default.so
+vendor/lib64/libwbc_jni.so
