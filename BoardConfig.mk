@@ -27,6 +27,9 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 # Kernel
 TARGET_KERNEL_CONFIG := natrium_defconfig
 
+# WiPower
+BOARD_USES_WIPOWER := true
+
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
