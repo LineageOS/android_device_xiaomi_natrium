@@ -47,5 +47,13 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/nfc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
     $(LOCAL_PATH)/nfc/libnfc-nxp.conf:system/etc/libnfc-nxp.conf
 
+# WiPower
+PRODUCT_PACKAGES += \
+    android.wipower \
+    android.wipower.xml \
+    com.quicinc.wbcserviceapp \
+    libwipower_jni \
+    wipowerservice
+
 # Inherit from msm8996-common
 $(call inherit-product, device/xiaomi/msm8996-common/msm8996.mk)

@@ -200,3 +200,14 @@ lib/hw/consumerir.msm8996.so
 
 # NFC firmware
 vendor/firmware/libpn551_fw.so
+
+# Wipower
+-app/com.quicinc.wbcserviceapp/com.quicinc.wbcserviceapp.apk
+etc/permissions/com.quicinc.wbc.xml
+etc/permissions/com.quicinc.wbcservice.xml
+framework/com.quicinc.wbc.jar
+framework/com.quicinc.wbcservice.jar
+lib/hw/wbc_hal.default.so
+lib/libwbc_jni.so
+lib64/hw/wbc_hal.default.so
+lib64/libwbc_jni.so
