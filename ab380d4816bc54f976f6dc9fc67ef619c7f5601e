@@ -22,6 +22,30 @@
       "revId": "ab380d4816bc54f976f6dc9fc67ef619c7f5601e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa5d592f_4e75f196",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-03-05T18:03:07Z",
+      "side": 1,
+      "message": "I\u0027d rather avoid any kind of brand kernel side",
+      "parentUuid": "fa5d592f_8e4be958",
+      "range": {
+        "startLine": 28,
+        "startChar": 24,
+        "endLine": 28,
+        "endChar": 41
+      },
+      "revId": "ab380d4816bc54f976f6dc9fc67ef619c7f5601e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
