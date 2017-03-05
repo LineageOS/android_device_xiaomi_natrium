@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_8e4be958",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-03-05T17:49:48Z",
+      "side": 1,
+      "message": "Let\u0027s make it lineageos_natrium_defconfig. Mi 5 one isalready named lineageos_gemini_defconfig.",
+      "range": {
+        "startLine": 28,
+        "startChar": 24,
+        "endLine": 28,
+        "endChar": 41
+      },
+      "revId": "ab380d4816bc54f976f6dc9fc67ef619c7f5601e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
