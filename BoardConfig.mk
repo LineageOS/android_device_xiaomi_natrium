@@ -24,11 +24,5 @@ TARGET_OTA_ASSERT_DEVICE := natrium
 # Board
 TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 
-# Kernel
-TARGET_KERNEL_CONFIG := natrium_defconfig
-
-# Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
-
 # inherit from the proprietary version
 -include vendor/xiaomi/natrium/BoardConfigVendor.mk
