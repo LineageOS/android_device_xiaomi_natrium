@@ -172,3 +172,10 @@ vendor/lib/libmmcamera_imx258_ofilm.so
 vendor/lib/libmmcamera_imx258.so
 vendor/lib/libmmcamera_ov4688_b7.so
 vendor/lib/libmmcamera_ov4688_primax_b7.so
+
+# Fingerprint
+bin/qvop-daemon
+lib64/hw/fingerprint.fpc.so
+lib/hw/fingerprint.fpc.so
+vendor/lib64/libqvop-service.so
+vendor/lib/libqvop-service.so
