@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da6255ed_8ca9e77d",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 7
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2017-03-07T21:02:46Z",
+      "side": 1,
+      "message": "This is back to common.",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 31,
+        "endChar": 44
+      },
+      "revId": "337251678d776f1f8a2e52aa5892d2b0dfa176bc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
