@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da6255ed_0ccf37b2",
+        "filename": "audio/audio_platform_info.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-03-07T18:19:22Z",
+      "side": 1,
+      "message": "Default value",
+      "range": {
+        "startLine": 72,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 65
+      },
+      "revId": "f1f8b9e8c5909b794363d15aa0b29bc3e6d53936",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da6255ed_ecc3c388",
+        "filename": "audio/audio_platform_info.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-03-07T18:19:22Z",
+      "side": 1,
+      "message": "Default value",
+      "range": {
+        "startLine": 73,
+        "startChar": 0,
+        "endLine": 73,
+        "endChar": 85
+      },
+      "revId": "f1f8b9e8c5909b794363d15aa0b29bc3e6d53936",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da6255ed_ccc0ff7e",
+        "filename": "audio/audio_platform_info.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-03-07T18:19:22Z",
+      "side": 1,
+      "message": "Are you sure we want speaker backend instead of voice-speaker?",
+      "range": {
+        "startLine": 74,
+        "startChar": 0,
+        "endLine": 74,
+        "endChar": 71
+      },
+      "revId": "f1f8b9e8c5909b794363d15aa0b29bc3e6d53936",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
