@@ -27,5 +27,9 @@ TARGET_BOARD_INFO_FILE := $(DEVICE_PATH)/board-info.txt
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
 
+# Kernel
+BOARD_CUSTOM_BOOTIMG_MK := $(DEVICE_PATH)/mkbootimg.mk
+TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/zImage.gz-dtb
+
 # inherit from the proprietary version
 -include vendor/xiaomi/natrium/BoardConfigVendor.mk
