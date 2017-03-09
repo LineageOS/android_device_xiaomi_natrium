@@ -33,3 +33,6 @@ on boot
 on post-fs-data
     chown system system /dev/sysmatdrv
     chmod 0660 /dev/sysmatdrv
+
+on property:wifi.fccutild.load.qcacld=true
+    insmod /system/lib/modules/wlan.ko con_mode=5
