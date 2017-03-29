@@ -5,9 +5,9 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_NAME := lineage_natrium
 PRODUCT_DEVICE := natrium
-PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := Mi 5s Plus
-PRODUCT_MANUFACTURER := xiaomi
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := MI 5s Plus
+PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
