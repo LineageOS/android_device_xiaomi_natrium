@@ -2355,7 +2355,7 @@
     </path>
 
     <path name="voice-speaker">
-        <path name="speaker-mono" />
+        <path name="speaker" />
     </path>
 
     <path name="voice-speaker-fluid">

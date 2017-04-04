@@ -1,0 +1,7 @@
+# Camera
+persist.camera.cs.br=0.7
+
+# Fingerprint
+persist.qfp=false
+ro.hardware.fingerprint=fpc
+sys.fpc.tu.disabled=0
