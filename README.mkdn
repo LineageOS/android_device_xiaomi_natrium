@@ -11,7 +11,7 @@ It was announced in September 2016. Release date was October 2016.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Quad-core (2x2.35 GHz Kryo & 2x2.2 GHz Kryo)
+CPU     | Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)
 Chipset | Qualcomm MSM8996 Snapdragon 821
 GPU     | Adreno 530
 Memory  | 4/6 GB RAM
