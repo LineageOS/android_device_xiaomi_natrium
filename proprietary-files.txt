@@ -171,17 +171,17 @@ etc/camera/ov4688_b7_chromatix.xml
 etc/camera/ov4688_primax_b7_chromatix.xml
 
 # Camera eeproms
-vendor/lib/libmmcamera_imx258_gt24c32_eeprom.so
-vendor/lib/libmmcamera_imx258_mono_gt24c32_eeprom.so
-vendor/lib/libmmcamera_ov4688_b7_eeprom.so
+vendor/lib/libmmcamera_imx258_gt24c32_eeprom.so|1af9b6c27e60e80465d3fdc2434a3940c7b5a0d0
+vendor/lib/libmmcamera_imx258_mono_gt24c32_eeprom.so|dd058ebc8e2bb0d14a52f9b22038aad5c7cf6716
+vendor/lib/libmmcamera_ov4688_b7_eeprom.so|ab87f93b66d6b4d6e853d8f6e76a7ea5747f202b
 
 # Camera sensors
-vendor/lib/libmmcamera_imx258_mono_ofilm.so
-vendor/lib/libmmcamera_imx258_mono.so
-vendor/lib/libmmcamera_imx258_ofilm.so
-vendor/lib/libmmcamera_imx258.so
-vendor/lib/libmmcamera_ov4688_b7.so
-vendor/lib/libmmcamera_ov4688_primax_b7.so
+vendor/lib/libmmcamera_imx258_mono_ofilm.so|5c7d822add0c916528495327b50082aef020612f
+vendor/lib/libmmcamera_imx258_mono.so|0d597e74f72b43dddf8285cf55b35d53d415a3a8
+vendor/lib/libmmcamera_imx258_ofilm.so|fd0c3e6632e7075c222476d64a988cdaf66a73ab
+vendor/lib/libmmcamera_imx258.so|41a84908653051dd04132292055bd9db981e074a
+vendor/lib/libmmcamera_ov4688_b7.so|04c58ec8d53db90f29f275d419c25d6cdb49d49d
+vendor/lib/libmmcamera_ov4688_primax_b7.so|eabea05fec9b28c4153379460c90cc2c2baed6c5
 
 # Display calibration data
 -etc/qdcm_calib_data_jdi_fhd_xcmd_incell_dsi_panel.xml|2e733f18751fc7d6c567419aa50230985050b7fe
