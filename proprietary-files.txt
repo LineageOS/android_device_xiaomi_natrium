@@ -199,7 +199,7 @@ etc/firmware/a530_zap.elf
 etc/firmware/a530_zap.mdt
 
 # NFC firmware
-vendor/firmware/libpn551_fw.so|4732c4aac8589d1f8aca13b96d2d541fb99babea
+vendor/firmware/libpn551_fw.so|7b09cdb06176e4ca38004830c41490909dd37ee2
 
 # Sensors
 etc/sensors/hals.conf
