@@ -5,3 +5,8 @@ persist.camera.cs.br=0.7
 persist.qfp=false
 ro.hardware.fingerprint=fpc
 sys.fpc.tu.disabled=0
+
+#
+# System props for telephony
+# System prop to turn on CdmaLTEPhone always
+telephony.lteOnCdmaDevice=1
