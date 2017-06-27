@@ -8,6 +8,13 @@ etc/acdbdata/Forte/Forte_Headset_cal.acdb
 etc/acdbdata/Forte/Forte_Speaker_cal.acdb
 etc/acdbdata/adsp_avs_config.acdb
 
+# Camera
+vendor/lib/libmmcamera2_iface_modules.so
+vendor/lib/libmmcamera2_imglib_modules.so
+vendor/lib/libmmcamera2_mct.so
+vendor/lib/libmmcamera2_sensor_modules.so
+vendor/lib/libmmcamera2_stats_modules.so
+
 # Camera actuators
 vendor/lib/libactuator_lc898214xc.so
 vendor/lib/libactuator_lc898217xc.so
@@ -201,9 +208,27 @@ etc/firmware/a530_zap.mdt
 # NFC firmware
 vendor/firmware/libpn551_fw.so|4732c4aac8589d1f8aca13b96d2d541fb99babea
 
+# RIL
+vendor/lib64/libril-qc-qmi-1.so
+vendor/lib64/libsettings.so
+vendor/qcril.db
+
 # Sensors
+bin/sensors.qcom
 etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
+vendor/lib64/hw/activity_recognition.msm8996.so
+vendor/lib64/libsensor1.so
+vendor/lib64/libsensor_reg.so
+vendor/lib64/libsensor_user_cal.so
+vendor/lib64/sensors.oem.so
+vendor/lib64/sensors.ssc.so
+vendor/lib/hw/activity_recognition.msm8996.so
+vendor/lib/libsensor1.so
+vendor/lib/libsensor_reg.so
+vendor/lib/libsensor_user_cal.so
+vendor/lib/sensors.oem.so
+vendor/lib/sensors.ssc.so
 
 # Thermal
 etc/thermal-engine-8996.conf
