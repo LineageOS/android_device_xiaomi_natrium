@@ -5,3 +5,7 @@ persist.camera.cs.br=0.7
 persist.qfp=false
 ro.hardware.fingerprint=fpc
 sys.fpc.tu.disabled=0
+
+# WiPower
+ro.bluetooth.emb_wp_mode=true
+ro.bluetooth.wipower=true
