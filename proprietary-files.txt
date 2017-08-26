@@ -202,7 +202,7 @@ etc/firmware/a530_zap.mdt
 vendor/firmware/libpn551_fw.so|4732c4aac8589d1f8aca13b96d2d541fb99babea
 
 # Sensors
-etc/sensors/hals.conf
+etc/sensors/hals.conf:vendor/etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
 
 # Thermal
