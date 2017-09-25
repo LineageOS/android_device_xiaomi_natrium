@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9492c781_73bf7d4f",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-09-25T09:40:38Z",
+      "side": 1,
+      "message": "3",
+      "range": {
+        "startLine": 31,
+        "startChar": 17,
+        "endLine": 31,
+        "endChar": 22
+      },
+      "revId": "4413b95db0577d3feb2c856a71099eddbbf3c29c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
