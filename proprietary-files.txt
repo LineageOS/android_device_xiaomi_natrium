@@ -207,3 +207,7 @@ etc/sensors/sensor_def_qcomdev.conf
 
 # Thermal
 etc/thermal-engine-8996.conf
+
+# libgpustats libraries
+-vendor/lib/libgpustats.so
+-vendor/lib64/libgpustats.so
