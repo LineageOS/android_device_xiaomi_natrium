@@ -60,5 +60,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/thermal-engine-8996.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-8996.conf
 
+# Vibrator
+PRODUCT_PACKAGES += \
+    android.hardware.vibrator@1.1-service.xiaomi_8996
+
 # Inherit from msm8996-common
 $(call inherit-product, device/xiaomi/msm8996-common/msm8996.mk)
