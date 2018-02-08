@@ -166,7 +166,7 @@ etc/camera/imx258_chromatix.xml
 etc/camera/imx258_mono_chromatix.xml
 etc/camera/imx258_mono_ofilm_chromatix.xml
 etc/camera/imx258_ofilm_chromatix.xml
-etc/camera/msm8996_camera.xml
+etc/camera/msm8996_camera.xml|d1430c29fade884bd3792ee02b1f15e5e6d486e8
 etc/camera/ov4688_b7_chromatix.xml
 etc/camera/ov4688_primax_b7_chromatix.xml
 
