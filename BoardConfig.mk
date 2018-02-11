@@ -34,7 +34,7 @@ TARGET_KERNEL_CONFIG := natrium_defconfig
 NXP_CHIP_TYPE := 3
 
 # Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # inherit from the proprietary version
 -include vendor/xiaomi/natrium/BoardConfigVendor.mk
