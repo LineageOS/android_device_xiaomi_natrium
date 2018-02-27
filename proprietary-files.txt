@@ -184,8 +184,8 @@ vendor/lib/libmmcamera_ov4688_b7.so
 vendor/lib/libmmcamera_ov4688_primax_b7.so
 
 # Display calibration data
-etc/qdcm_calib_data_jdi_fhd_xcmd_incell_dsi_panel.xml:vendor/etc/qdcm_calib_data_jdi_fhd_xcmd_incell_dsi_panel.xml|0502bbbdad1dccc57c851610d872e50c7f6dd8b9
-etc/qdcm_calib_data_sharp_fhd_xcmd_incell_dsi_panel.xml:vendor/etc/qdcm_calib_data_sharp_fhd_xcmd_incell_dsi_panel.xml|0502bbbdad1dccc57c851610d872e50c7f6dd8b9
+vendor/etc/qdcm_calib_data_jdi_fhd_xcmd_incell_dsi_panel.xml|5a7e0224567588a9814557acc94baa64054bd2a2
+vendor/etc/qdcm_calib_data_sharp_fhd_xcmd_incell_dsi_panel.xml|5a7e0224567588a9814557acc94baa64054bd2a2
 
 # Fingerprint
 lib64/hw/fingerprint.fpc.so
