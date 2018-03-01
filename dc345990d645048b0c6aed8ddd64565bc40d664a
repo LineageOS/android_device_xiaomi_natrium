@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "81af0445_0843c511",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-03-01T15:18:16Z",
+      "side": 1,
+      "message": "Not sure if I like this written here...",
+      "range": {
+        "startLine": 9,
+        "startChar": 45,
+        "endLine": 10,
+        "endChar": 23
+      },
+      "revId": "dc345990d645048b0c6aed8ddd64565bc40d664a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ec118519_d58de1ca",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-03-01T15:18:16Z",
+      "side": 1,
+      "message": "Remove? Or alternatively pick in the same order as Luk did for capricorn.",
+      "range": {
+        "startLine": 12,
+        "startChar": 3,
+        "endLine": 12,
+        "endChar": 42
+      },
+      "revId": "dc345990d645048b0c6aed8ddd64565bc40d664a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
