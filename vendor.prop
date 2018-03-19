@@ -1,5 +1,6 @@
 # Camera
 persist.camera.cs.br=0.7
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.miui.cit,org.lineageos.snap
 
 # Fingerprint
 persist.qfp=false
