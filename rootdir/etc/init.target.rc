@@ -33,3 +33,6 @@ on init
 on post-fs-data
     chown system system /dev/sysmatdrv
     chmod 0660 /dev/sysmatdrv
+
+on property:sys.boot_completed=1
+    write /sys/module/msm_performance/parameters/cpu_max_freq "0:2188800 1:2188800 2:2342400 3:2342400"
