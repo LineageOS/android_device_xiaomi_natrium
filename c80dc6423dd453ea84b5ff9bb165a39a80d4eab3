@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "073e013c_0a5e358e",
+        "filename": "README.mkdn",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-05-12T11:03:56Z",
+      "side": 1,
+      "message": "MSM8996Pro",
+      "range": {
+        "startLine": 15,
+        "startChar": 19,
+        "endLine": 15,
+        "endChar": 30
+      },
+      "revId": "c80dc6423dd453ea84b5ff9bb165a39a80d4eab3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
