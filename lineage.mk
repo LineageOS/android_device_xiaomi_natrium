@@ -14,7 +14,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="natrium" \
     PRODUCT_NAME="natrium" \
-    PRIVATE_BUILD_DESC="natrium-user 6.0.1 MXB48T V8.2.4.0.MBGCNDL release-keys"
+    PRIVATE_BUILD_DESC="natrium-user 6.0.1 MXB48T V9.6.1.0.NBGCNFD release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := "Xiaomi/natrium/natrium:6.0.1/MXB48T/V8.2.4.0.MBGCNDL:user/release-keys"
+BUILD_FINGERPRINT := "Xiaomi/natrium/natrium:6.0.1/MXB48T/V9.6.1.0.NBGCNFD:user/release-keys"
