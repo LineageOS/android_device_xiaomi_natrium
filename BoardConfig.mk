@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017 The LineageOS Project
+# Copyright (C) 2017-2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -32,9 +32,6 @@ TARGET_KERNEL_CONFIG := natrium_defconfig
 
 # NFC
 NXP_CHIP_TYPE := 3
-
-# Properties
-TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # inherit from the proprietary version
 -include vendor/xiaomi/natrium/BoardConfigVendor.mk
