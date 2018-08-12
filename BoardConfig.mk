@@ -30,8 +30,5 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 # Kernel
 TARGET_KERNEL_CONFIG := natrium_defconfig
 
-# NFC
-NXP_CHIP_TYPE := 3
-
 # inherit from the proprietary version
 -include vendor/xiaomi/natrium/BoardConfigVendor.mk
