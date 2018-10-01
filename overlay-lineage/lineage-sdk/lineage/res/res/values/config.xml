@@ -63,6 +63,10 @@
     -->
     <integer name="config_deviceSupportsButtonBrightnessControl">2</integer>
 
+    <!-- Whether to cleanup fingerprints upon connection to the daemon and when
+         user switches -->
+    <bool name="config_cleanupUnusedFingerprints">false</bool>
+
     <!-- Whether to notify fingerprint client of successful cancelled authentication -->
     <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 </resources>
