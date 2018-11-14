@@ -2,14 +2,14 @@
 vendor/lib/rfsa/adsp/libdirac-appi.so
 
 # Audio ACDB
-etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
-etc/acdbdata/Forte/Forte_General_cal.acdb:vendor/etc/acdbdata/Forte/Forte_General_cal.acdb
-etc/acdbdata/Forte/Forte_Global_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb
-etc/acdbdata/Forte/Forte_Handset_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb
-etc/acdbdata/Forte/Forte_Hdmi_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb
-etc/acdbdata/Forte/Forte_Headset_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb
-etc/acdbdata/Forte/Forte_Speaker_cal.acdb:vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb
-etc/acdbdata/adsp_avs_config.acdb:vendor/etc/acdbdata/adsp_avs_config.acdb
+vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_General_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Speaker_cal.acdb
+vendor/etc/acdbdata/adsp_avs_config.acdb
 
 # Camera actuators
 vendor/lib/libactuator_lc898214xc.so
@@ -191,19 +191,18 @@ vendor/etc/qdcm_calib_data_jdi_fhd_xcmd_incell_dsi_panel.xml|5a7e0224567588a9814
 vendor/etc/qdcm_calib_data_sharp_fhd_xcmd_incell_dsi_panel.xml|5a7e0224567588a9814557acc94baa64054bd2a2
 
 # Fingerprint
-lib64/hw/fingerprint.fpc.so
-lib/hw/fingerprint.fpc.so
+lib64/hw/fingerprint.fpc.so:vendor/lib64/hw/fingerprint.fpc.so|f889b5f19d7938fe89668890e0ffb24f951f83ca
 
 # Graphics firmware
-etc/firmware/a530_zap.b00:vendor/firmware/a530_zap.b00
-etc/firmware/a530_zap.b01:vendor/firmware/a530_zap.b01
-etc/firmware/a530_zap.b02:vendor/firmware/a530_zap.b02
-etc/firmware/a530_zap.elf:vendor/firmware/a530_zap.elf
-etc/firmware/a530_zap.mdt:vendor/firmware/a530_zap.mdt
+vendor/firmware/a530_zap.b00
+vendor/firmware/a530_zap.b01
+vendor/firmware/a530_zap.b02
+vendor/firmware/a530_zap.elf
+vendor/firmware/a530_zap.mdt
 
 # NFC firmware
 vendor/firmware/libpn551_fw.so:vendor/lib/libpn551_fw.so|4732c4aac8589d1f8aca13b96d2d541fb99babea
 
 # Sensors
-etc/sensors/hals.conf:vendor/etc/sensors/hals.conf
+vendor/etc/sensors/hals.conf
 etc/sensors/sensor_def_qcomdev.conf
