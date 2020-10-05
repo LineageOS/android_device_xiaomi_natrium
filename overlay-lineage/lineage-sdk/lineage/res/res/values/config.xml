@@ -58,4 +58,7 @@
 
     <!-- Button backlight -->
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+
+    <!-- Whether notify fingerprint client of successful cancelled authentication -->
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 </resources>
