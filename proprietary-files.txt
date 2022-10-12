@@ -204,5 +204,5 @@ vendor/firmware/a530_zap.mdt
 vendor/firmware/libpn551_fw.so:vendor/lib/libpn551_fw.so|4732c4aac8589d1f8aca13b96d2d541fb99babea
 
 # Sensors
-system/etc/sensors/sensor_def_qcomdev.conf
+system/etc/sensors/sensor_def_qcomdev.conf:vendor/etc/sensors/sensor_def_qcomdev.conf
 vendor/etc/sensors/hals.conf
