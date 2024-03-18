@@ -1,1 +1,1 @@
-require board=MSM8996|natrium
+require board=MSM8996_B7|natrium
