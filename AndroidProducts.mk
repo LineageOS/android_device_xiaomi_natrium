@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_natrium.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_natrium-user \
-    lineage_natrium-userdebug \
-    lineage_natrium-eng
