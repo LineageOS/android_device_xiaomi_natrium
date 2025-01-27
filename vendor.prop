@@ -1,5 +1,14 @@
 # Bluetooth
 bluetooth.device.default_name=Xiaomi Mi 5s Plus
 
+# Camera
+persist.camera.cs.br=0.7
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,org.lineageos.aperture,org.lineageos.aperture.dev
+
+# Fingerprint
+persist.qfp=false
+ro.hardware.fingerprint=fpc
+sys.fpc.tu.disabled=0
+
 # USB
 vendor.usb.product_string=Xiaomi Mi 5s Plus
